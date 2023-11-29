@@ -15,6 +15,15 @@ button{
     margin-top: 2vh;
     width: 15vw;
     font-size: 20px;
+    color: rgb(8, 8, 8);
+    background-color: rgb(230, 116, 116);
+    border-color:  rgb(239, 125, 125);
+    
+}
+button:hover{
+    color: rgb(8, 8, 8);
+    background-color:rgb(214, 168, 168);
+    border-color: rgb(214, 168, 168);
 }
 
 .fundo{
@@ -22,17 +31,7 @@ button{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(204, 204, 204);
+    background-color: rgb(131, 52, 52);
 }   
 
-.main{
-    padding: 20px;
-    border-radius: 7px;
-    text-align: center;
-    background-color: rgb(255, 255, 255);
-    width: 40vw;
-    height: 50vh;
-    border: 1px solid rgb(196, 195, 195);
-    box-shadow: 5px 5px 5px rgb(119, 119, 119);
 
-}
